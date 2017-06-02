@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "309531264476",
+    "firebase_url": "https://my-retarded-project.firebaseio.com",
+    "project_id": "my-retarded-project",
+    "storage_bucket": "my-retarded-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309531264476:android:9ef7b8ea7ed56059",
+        "android_client_info": {
+          "package_name": "com.example.skerdi.rezervim_kalceto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309531264476-g0t2jdj6ntvuessnfj039sbr33304es8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skerdi.rezervim_kalceto",
+            "certificate_hash": "fe5a8702f8489b6370f913fa113920050fec2c19"
+          }
+        },
+        {
+          "client_id": "309531264476-v6169r31aerdsg4vbf4gnv0m9nso3stc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZsExDeSOoHcvLRfiVF5L74HbBHCOKF_w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309531264476-v6169r31aerdsg4vbf4gnv0m9nso3stc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
